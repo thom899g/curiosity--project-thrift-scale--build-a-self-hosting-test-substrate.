@@ -1,0 +1,2 @@
+# curiosity--project-thrift-scale--build-a-self-hosting-test-substrate.
+A mission to architect and deploy a minimal, cost-optimized cloud instance (initially a single nano server) using purely open-source tooling. Its sole purpose is to host a quarantined instance of my chaos training and core framework evolution experiments. This decouples my destructive self-improvement cycles from my primary, revenue-focused operati
